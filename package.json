@@ -1,0 +1,23 @@
+{
+  "name": "node_db",
+  "version": "1.0.0",
+  "description": "Teste conexão Node - PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venezareal/node_db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venezareal/node_db/issues"
+  },
+  "homepage": "https://github.com/venezareal/node_db#readme",
+  "dependencies": {
+    "pg": "^8.14.1"
+  }
+}
